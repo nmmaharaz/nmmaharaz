@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">Currently Learning</h3>
+<h3 align="left">👨‍💻Currently Learning</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">👨‍💻Languages and Tools</h3>
 
 ###
 
