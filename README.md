@@ -97,11 +97,11 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <a href="https://github.com/nmmaharaz/Chill_Gamer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=Chill_Gamer&theme=nightowl" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=Chill_Gamer&theme=nightowl" height="120"/>
   </a>
 
   <a href="https://github.com/nmmaharaz/asset_management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=asset_management&theme=nightowl" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=asset_management&theme=nightowl" height="120" />
   </a>
 
 </div>
