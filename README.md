@@ -98,7 +98,7 @@
 <a href="https://github.com/nmmaharaz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/nmmaharaz/anuraghazra.github.io">
+<a href="https://github.com/nmmaharaz/nmmaharaz.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
@@ -108,6 +108,6 @@
 <a href="https://twitter.com/nmmaharaz">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
+<a href="https://codesandbox.io/u/nmmaharaz">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
