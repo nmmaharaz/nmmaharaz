@@ -94,21 +94,16 @@
 
 ### 🚀 Top Repositories  
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/nmmaharaz/Chill_Gamer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=Chill_Gamer&theme=nightowl" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nmmaharaz/asset_management">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=asset_management&theme=nightowl" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <a href="https://github.com/nmmaharaz/Chill_Gamer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=Chill_Gamer&theme=nightowl" width="400"/>
+  </a>
+
+  <a href="https://github.com/nmmaharaz/asset_management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=asset_management&theme=nightowl" width="400"/>
+  </a>
+
 </div>
 
 
