@@ -95,16 +95,6 @@
 ### Top Repositories
 
 
-<a href="https://github.com/nmmaharaz/Chill_Gamer">
-  <img align="center" src="https://assetmanagement-24357.web.app/api/pin/?username=anuraghazra&repo=asset_management&theme=nightowl" />
-</a>
-<a href="https://github.com/nmmaharaz/nmmaharaz.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=nightowl" />
-</a>
-
-<br />
-<br />
-
 <a href="https://twitter.com/nmmaharaz">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://github.com/nmmaharaz/Chill_Gamer" />
 </a>
