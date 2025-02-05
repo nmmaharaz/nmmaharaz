@@ -95,7 +95,7 @@
 #### Top Repositories
 
 <a href="https://github.com/nmmaharaz/Chill_Gamer">
-  <img align="center" src="https://github.com/nmmaharaz/Chill_Gamer/api/pin/?username=nmmaharaz&repo=Chill_Gamer&theme=nightowl" />
+  <img align="center" src="https://chill-game-8b0b0.web.app/api/pin/?username=nmmaharaz&repo=Chill_Gamer&theme=nightowl" />
 </a>
 
 <br />
