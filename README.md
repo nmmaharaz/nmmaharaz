@@ -91,13 +91,3 @@
 </div>
 
 ###
-
-### Top Repositories
-
-
-<a href="https://twitter.com/nmmaharaz">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://github.com/nmmaharaz/Chill_Gamer" />
-</a>
-<a href="https://codesandbox.io/u/nmmaharaz">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://github.com/nmmaharaz/Chill_Gamer" />
-</a>
