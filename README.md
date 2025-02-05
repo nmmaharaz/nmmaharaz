@@ -69,8 +69,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl" alt="Anurag's GitHub stats" height="210">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nmmaharaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="210" alt="languages graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl" alt="Anurag's GitHub stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nmmaharaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="200" alt="languages graph">
 </div>
 
 ###
