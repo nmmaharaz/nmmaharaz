@@ -95,10 +95,10 @@
 #### Top Repositories
 
 <a href="https://github.com/nmmaharaz/Chill_Gamer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=Chill_Gamer&theme=nightowl" />
+  <img align="center" src="https://chill-game-8b0b0.web.app/api/pin/?username=nmmaharaz&repo=Chill_Gamer&theme=nightowl" />
 </a>
 <a href="https://github.com/nmmaharaz/Chill_Gamer.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=Chill_Gamer.github.io&theme=buefy" />
+  <img align="center" src="https://chill-game-8b0b0.web.app/api/pin/?username=nmmaharaz&repo=Chill_Gamer.github.io&theme=buefy" />
 </a>
 
 <br />
