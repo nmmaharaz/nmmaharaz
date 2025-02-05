@@ -98,11 +98,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=Chill_Gamer&theme=nightowl" />
 </a>
 
-
 <a href="https://github.com/nmmaharaz/asset_management">
-  <img align="center" src="https://assetmanagement-24357.web.app/api/pin/?username=nmmaharaz&repo=asset_management &theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=asset_management&theme=nightowl" />
 </a>
 
 <br />
+
 
 
