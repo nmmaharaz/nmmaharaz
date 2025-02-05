@@ -69,7 +69,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmmaharaz&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl" alt="Anurag's GitHub stats">
 </p>
 
 <div align="center">
