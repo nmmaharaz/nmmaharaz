@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="280" width="900" src="https://raw.githubusercontent.com/nmmaharaz/nmmaharaz/refs/heads/main/bn.png"  />
+  <img height="280" width="900" src="https://i.ibb.co.com/5qjvbXj/banner.png"  />
 </div>
 
 ###
