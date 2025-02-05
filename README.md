@@ -68,7 +68,9 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmmaharaz&show_icons=true&theme=nightowl)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nmmaharaz&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Anurag's GitHub stats">
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nmmaharaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
