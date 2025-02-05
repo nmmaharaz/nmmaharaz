@@ -92,34 +92,23 @@
 
 ###
 
-## 🚀 Top Repositories  
+### 🚀 Top Repositories  
 
 <div align="center">
-  <style>
-    .repo-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-    }
-
-    @media (max-width: 600px) {
-      .repo-container {
-        flex-direction: column;
-        align-items: center;
-      }
-    }
-  </style>
-
-  <div class="repo-container">
-    <a href="https://github.com/nmmaharaz/Chill_Gamer">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=Chill_Gamer&theme=nightowl" />
-    </a>
-
-    <a href="https://github.com/nmmaharaz/asset_management">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=asset_management&theme=nightowl" />
-    </a>
-  </div>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/nmmaharaz/Chill_Gamer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=Chill_Gamer&theme=nightowl" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nmmaharaz/asset_management">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmmaharaz&repo=asset_management&theme=nightowl" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
